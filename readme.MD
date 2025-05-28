@@ -2,7 +2,7 @@
 
 Aplikasi desktop untuk manajemen pembayaran dan menu rumah makan yang dikembangkan menggunakan PyQt5 dan SQLite.
 
-![Screenshot Aplikasi](screenshot.png)
+![Screenshot Aplikasi](screenshoot.png)
 
 ## 🚀 Fitur Utama
 
